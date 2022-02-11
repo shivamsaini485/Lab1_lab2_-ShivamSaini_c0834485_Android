@@ -34,8 +34,9 @@
             android:text="Save"
             android:textSize="36dp"
             android:textStyle="bold"
-            android:textColor="@android:color/holo_green_dark"
-            android:fontFamily="cursive"/>
+            android:background="@color/color4"
+            android:textColor="@android:color/white"
+            />
 
         <TextView
             android:id="@+id/tv_mapcancel"
@@ -47,8 +48,9 @@
             android:text="Cancel"
             android:textSize="36dp"
             android:textStyle="bold"
-            android:textColor="@android:color/holo_red_dark"
-            android:fontFamily="cursive"/>
+            android:background="@color/color7"
+            android:textColor="@android:color/black"
+            />
 
 
     </LinearLayout>

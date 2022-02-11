@@ -4,13 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable-anydpi/add.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/cancel_bg.xml" value="0.211" />
         <entry key="app/src/main/res/drawable/listview_bg.xml" value="0.1135" />
+        <entry key="app/src/main/res/drawable/save_bg.xml" value="0.211" />
         <entry key="app/src/main/res/layout/activity_maps.xml" value="0.15070921985815602" />
         <entry key="app/src/main/res/layout/activity_product_entry.xml" value="0.15070921985815602" />
         <entry key="app/src/main/res/layout/activity_product_list.xml" value="0.15070921985815602" />
         <entry key="app/src/main/res/layout/activity_view_entry.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_view_product.xml" value="0.16770833333333332" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/location_bg.xml" value="0.2006340579710145" />
       </map>
     </option>
   </component>
